@@ -1,0 +1,6 @@
+{
+  "name": "Trilingual CV & Resume Showcase",
+  "description": "Website đăng và trình chiếu CV đa ngôn ngữ chuyên nghiệp (Tiếng Việt, 繁體中文, English) với trình biên tập trực quan, lưu tự động và xuất bản in PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
